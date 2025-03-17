@@ -11,7 +11,7 @@ Topics covered include:
 
 
 
-# 📌 Introductory Dynamical Systems  
+
 🚧 **This section is under construction.** More materials will be added soon. 🚧  
 
 This section contains coursework from an introductory course on dynamical systems. Topics covered include equilibrium analysis, phase portraits, nonlinear oscillators, and stability of systems.  
