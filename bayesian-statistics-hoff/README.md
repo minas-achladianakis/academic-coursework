@@ -8,9 +8,9 @@ Topics covered include:
 - Computational techniques for Bayesian analysis  
 ---
 
-### 📘 Part 1 – Archive Overview (Uploaded as PDF)
+### 📘 Part 1 – Bayesian_Statistics_Part1 (Uploaded as PDF)
 
-The first element of this section is a compiled PDF of my initial work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
+The first element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
 
 - **Task 1 (pp. 10–14):**  
   Introductory exercises, not from Hoff’s book.
@@ -21,19 +21,24 @@ The first element of this section is a compiled PDF of my initial work during th
 - **Task 3 (pp. 31–47):**  
   Two custom exercises and Hoff’s 3.9, 3.10, 3.12.
 
-- **Task 4 (pp. 48–75):**  
+- **Task 4 (pp. 48–end):**  
   Problem 3.4 from *Applied Bayesian Statistics With R and OpenBUGS* by M.K. Cowles, and Hoff’s 4.2, 4.3, 4.6, 4.7, 4.8.
 
-- **Task 5 (pp. 76–102):**  
+
+### 📘 Part 2 – Bayesian_Statistics_Part2 (Uploaded as PDF)
+
+The second element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
+
+- **Task 5 (pp. 1–18):**  
   Hoff’s exercises 3.4, 3.5, and 4.4.
 
-- **Task 6 (pp. 103–122):**  
+- **Task 6 (pp. 19–37):**  
   Hoff’s exercises 5.1–5.4.
 
-- **Task 7 (pp. 123–141):**  
+- **Task 7 (pp. 38–56):**  
   Three custom exercises and Hoff’s 5.5, 6.1.
 
-- **Task 8 (pp. 141–end):**  
+- **Task 8 (pp. 56–end):**  
   One basic exercise and Hoff’s 7.3.
 
 Future uploads will include follow-up parts structured in the same manner.
