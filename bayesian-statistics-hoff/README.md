@@ -8,6 +8,9 @@ Topics covered include:
 - Computational techniques for Bayesian analysis  
 ---
 
+⚠️ **Note:** The exercises in this archive are labeled differently than in Peter D. Hoff’s textbook.  
+The correct exercise numbers (as they appear in Hoff’s book) are listed at the end of each page of the exercise description for reference.
+
 ### 📘 Part 1 – Bayesian_Statistics_Part1 (Uploaded as PDF)
 
 The first element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
