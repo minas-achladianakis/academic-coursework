@@ -44,6 +44,23 @@ The second element of this section is a compiled PDF of my work during the cours
 - **Task 8 (pp. 56–end):**  
   One basic exercise and Hoff’s 7.3.
 
+### 📘 Part 3 – Bayesian_Statistics_Part3 (Uploaded as PDF)
+
+The second element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
+
+- **Task 9 (pp. 1–24):**  
+  Hoff’s exercises 3.4, 3.5, and 4.4.
+
+- **Task 10 (pp. 25–44):**  
+  Hoff’s exercises 5.1–5.4.
+
+- **Task 11 (pp. 45–54):**  
+  Three custom exercises and Hoff’s 5.5, 6.1.
+
+- **Task 12 (pp. 55–end):**  
+  One basic exercise and Hoff’s 7.3.
+
+
 Future uploads will include follow-up parts structured in the same manner.
 
 ---
