@@ -61,7 +61,11 @@ The second element of this section is a compiled PDF of my work during the cours
   Hoff’s exercise 9.3.
 
 
-Future uploads will include follow-up parts structured in the same manner.
+### 📘 Bonus Work – Bayesian_Statistics_Bonus (Uploaded as PDF)
+
+**An analysis of BMA implementations (including birth-death mcmc) vs Ridge**
+
+
 
 ---
 
