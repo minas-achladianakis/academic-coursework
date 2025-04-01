@@ -36,6 +36,18 @@ This section contains structured assignments from a graduate-level course on **C
 
 ---
 
+### 📄 Assignment 3 – Adaptive LAD LASSO and Model Comparison
+📎 [View PDF](./M.C.S.Assignment_3.pdf)
+
+This assignment builds on earlier work using the airquality dataset, focusing on adaptive LASSO methods, quantile regression, and robust model comparison strategies. It deeply explores model selection, performance metrics, and confidence interval estimation using bootstrapping, offering insight into both practical model implementation and theoretical robustness.
+
+**Topics Covered:**
+- Adaptive **LAD LASSO** via rqPen, hqreg, and glmnet R packages
+- **Coefficient stability** analysis across lambda sequences
+- Use of **AIC-based backward selection** in quantile regression
+- In-depth **bootstrapping** for coefficient and interval estimation
+- Implementation of **10-fold Cross-Validation** for MAE comparison
+
 ## 🧠 Core Techniques Across All Assignments
 
 - Monte Carlo simulation and approximation
@@ -43,12 +55,15 @@ This section contains structured assignments from a graduate-level course on **C
 - Bootstrapping (resampling-based inference)
 - Bagging (model averaging)
 - Cross-validation (10-fold, 20-fold)
-- Penalized regression (LASSO, Ridge)
+- Adaptive and penalized regression (LASSO, LASSO variants, Ridge, Ridge variants)
 - Model selection and diagnostics
+- Posterior expectation and predictive distribution estimation
 - Bias–variance trade-offs in estimators
 - Variable transformation (e.g., Box-Cox)
+- Model diagnostics: AIC, CV error, MAE, LCH, MAPE
 - Predictive accuracy evaluation (Tofallis criterion, RMSE, MAE, MAPE)
 - Statistical comparison of models (Wilcoxon signed-rank test)
+- Quantile regression and median-based model fitting
 
 > ⚠️ *Note:* Some assignments build on earlier ones but remain individually self-contained.
 
@@ -56,4 +71,8 @@ This section contains structured assignments from a graduate-level course on **C
 
 🚧 **This section is under construction.** Additional assignments and write-ups will be added progressively.
 
-  
+📌 **Disclaimer & Sharing Policy**
+
+This work has been uploaded as a protected PDF due to its close alignment with ongoing coursework at the University of Crete. It is intended to support understanding, peer learning, and academic growth for fellow students and readers — not for direct reuse or copy-paste into active assignments.
+
+If you are a researcher, educator, or student interested in the underlying LaTeX source code, R/Python scripts, or extended materials for non-evaluative or collaborative purposes, feel free to reach out. I’d be happy to share the raw files upon reasonable and specific request.
