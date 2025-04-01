@@ -10,32 +10,45 @@ This section contains structured assignments from a graduate-level course on **C
 📎 [View PDF](./M.C.S.Assignment_1.pdf)
 
 **Topics Covered:**
-- Monte Carlo approximations for expectations
-- Simple vs. importance sampling
-- Comments in Bias–variance trade-offs in estimators 
-- Numerical integration via simulation
-- Practical interpretation of sampling variability
-- Cross-validation/ Bootstrapping/ Bagging
+- **Estimation of expectations** using Monte Carlo simulation
+- Simple Monte Carlo vs. **importance sampling** approaches
+- Bias–variance decomposition and interpretation
+- Convergence behavior of stochastic estimators
+- **Bootstrapping** for estimator variability and confidence intervals
+- **Bagging** (bootstrap aggregation) to reduce prediction variance
+- **10-fold cross-validation** for performance evaluation of predictive models
 
 ---
 
-### 📄 Assignment 2 – [Title placeholder]
-📎 [Coming soon]
+### 📄 Assignment 2 – Model Diagnostics & Variable Selection
+📎 [View PDF](./M.C.S.Assignment_2.pdf)
 
 **Topics Covered:**
-- *(To be added upon upload)*
+- **Residual diagnostics** and **regression assumption checking**
+- **Box-Cox** transformations for response normalization
+- Simulation of **multicollinearity** via noise-injected predictors
+- Variable selection via stepwise selection **(F-test, AIC, BIC)**
+- Penalized regression methods: **LASSO and Ridge**
+- **Prediction error metrics**: RMSE, MAE, MAPE
+- **20-fold cross-validation** for robust model comparison
+- **Tofallis criterion** for accuracy assessment
+- Statistical evaluation via **Wilcoxon** paired tests
 
 ---
 
 ## 🧠 Core Techniques Across All Assignments
 
-- Monte Carlo simulation
+- Monte Carlo simulation and approximation
 - Importance sampling
 - Bootstrapping (resampling-based inference)
 - Bagging (model averaging)
-- Cross-validation (10-fold CV and more)
-- Variance reduction strategies
-- Posterior expectation and predictive distribution estimation
+- Cross-validation (10-fold, 20-fold)
+- Penalized regression (LASSO, Ridge)
+- Model selection and diagnostics
+- Bias–variance trade-offs in estimators
+- Variable transformation (e.g., Box-Cox)
+- Predictive accuracy evaluation (Tofallis criterion, RMSE, MAE, MAPE)
+- Statistical comparison of models (Wilcoxon signed-rank test)
 
 > ⚠️ *Note:* Some assignments build on earlier ones but remain individually self-contained.
 
