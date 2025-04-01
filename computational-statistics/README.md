@@ -1,17 +1,46 @@
-# 📌 Computational Statistics  
-This section covers coursework related to computational techniques in statistics, including Bayesian inference, Monte Carlo methods, and statistical modeling.  
+# 🧮 Computational Statistics – Graduate Coursework
 
-Topics covered include:  
-- Markov Chain Monte Carlo (MCMC) methods  
-- Maximum likelihood estimation (MLE)  
-- Bootstrap resampling and hypothesis testing  
-- Regression models and statistical optimization  
-- Applications in data science and Bayesian analysis  
+This section contains structured assignments from a graduate-level course on **Computational Statistics**. Topics covered include Monte Carlo estimation techniques, resampling methods, cross-validation, and practical tools for simulation-based inference.
 
+---
 
-📌 **Disclaimer:** These materials are for educational purposes and may not be official solutions.  
+## 📘 Assignment Summaries
 
+### 📄 Assignment 1 – Monte Carlo Estimation (Uploaded as PDF)
+📎 [View PDF](./M.C.S.Assingment_1pdf)
 
+**Topics Covered:**
+- Monte Carlo approximations for expectations
+- Simple vs. importance sampling
+- Comments in Bias–variance trade-offs in estimators 
+- Numerical integration via simulation
+- Practical interpretation of sampling variability
+- Cross-validation/ Bootstrapping/ Bagging
 
-🚧 **This section is under construction.** More materials will be added soon. 🚧  
+---
+
+### 📄 Assignment 2 – [Title placeholder]
+📎 [Coming soon]
+
+**Topics Covered:**
+- *(To be added upon upload)*
+
+---
+
+## 🧠 Core Techniques Across All Assignments
+
+- Monte Carlo simulation
+- Importance sampling
+- Bootstrapping (resampling-based inference)
+- Bagging (model averaging)
+- Cross-validation (10-fold CV and more)
+- Variance reduction strategies
+- Posterior expectation and predictive distribution estimation
+
+> ⚠️ *Note:* Some assignments build on earlier ones but remain individually self-contained.
+
+---
+
+🚧 **This section is under construction.** Additional assignments and write-ups will be added progressively.
+
   
