@@ -12,6 +12,7 @@ Topics covered include:
 The correct exercise numbers (as they appear in Hoff’s book) are listed at the end of each page of the exercise description for reference.
 
 ### 📘 Part 1 – Bayesian_Statistics_Part1 (Uploaded as PDF)
+📎 [View PDF](./Bayesian_Statistics_Part1.pdf)
 
 The first element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
 
@@ -29,6 +30,7 @@ The first element of this section is a compiled PDF of my work during the course
 
 
 ### 📘 Part 2 – Bayesian_Statistics_Part2 (Uploaded as PDF)
+📎 [View PDF](./Bayesian_Statistics_Part2.pdf)
 
 The second element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
 
@@ -45,6 +47,7 @@ The second element of this section is a compiled PDF of my work during the cours
   One basic exercise and Hoff’s 7.3.
 
 ### 📘 Part 3 – Bayesian_Statistics_Part3 (Uploaded as PDF)
+📎 [View PDF](./Bayesian_Statistics_Part3.pdf)
 
 The second element of this section is a compiled PDF of my work during the course. The material is organized into labeled tasks, each corresponding to specific exercises and references:
 
@@ -62,6 +65,7 @@ The second element of this section is a compiled PDF of my work during the cours
 
 
 ### 📘 Bonus Work – Bayesian_Statistics_Bonus (Uploaded as PDF)
+📎 [View PDF](./Bayesian_Statistics_Bonus.pdf)
 
 **An analysis of BMA implementations (including birth-death mcmc) vs Ridge**
 
