@@ -7,7 +7,7 @@ This section contains structured assignments from a graduate-level course on **C
 ## 📘 Assignment Summaries
 
 ### 📄 Assignment 1 – Monte Carlo Estimation (Uploaded as PDF)
-📎 [View PDF](./M.C.S.Assingment_1pdf)
+📎 [View PDF](./M.C.S.Assingment_1.pdf)
 
 **Topics Covered:**
 - Monte Carlo approximations for expectations
