@@ -68,7 +68,7 @@ The second element of this section is a compiled PDF of my work during the cours
 
 ---
 
-  📘 Part 4 – Final Exercise: Metropolis for Logistic Regression
+###  📘 Part 4 – Final Exercise: Metropolis for Logistic Regression
 📎 [View PDF](./Bayesian_Statistics_Part4.pdf)
 
 The final exercise of the reading course is based on Exercise 10.2 from Peter D. Hoff’s book and focuses on Bayesian logistic regression using the Metropolis algorithm for MCMC sampling. It provides a full walk-through from model definition and prior selection to posterior sampling and diagnostics.
