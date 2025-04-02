@@ -48,22 +48,40 @@ This assignment builds on earlier work using the airquality dataset, focusing on
 - In-depth **bootstrapping** for coefficient and interval estimation
 - Implementation of **10-fold Cross-Validation** for MAE comparison
 
+---
+
+### 📄 Assignment 4 – MSE Comparison & Bootstrap Confidence Intervals (Uploaded as PDF)
+📎 [View PDF](./M.C.S.Assignment_4.pdf)
+
+**Topics Covered:**
+- Definition and implementation of test **MSE as a performance measure**
+- Construction of **confidence intervals** using the **non-parametric bootstrap**
+- Design of a **Monte Carlo experiment** to compare model robustness
+- Implementation of **quantile regression** (LAD) and OLS under heteroskedasticity
+- Evaluation of bias, variance, and RMSE in predictive modeling
+- Use of robust regression metrics under noise-induced model distortion
+- Visualization of model performance distributions across replicates
+
+---
+
 ## 🧠 Core Techniques Across All Assignments
 
 - Monte Carlo simulation and approximation
 - Importance sampling
-- Bootstrapping (resampling-based inference)
-- Bagging (model averaging)
-- Cross-validation (10-fold, 20-fold)
+- Bootstrapping (non-parametric resampling for CIs and error estimation)
+- Bagging (ensemble method)
+- Cross-validation (10-fold, 20-fold, and custom splits)
 - Adaptive and penalized regression (LASSO, LASSO variants, Ridge, Ridge variants)
+- Quantile regression (LAD models)
 - Model selection and diagnostics
 - Posterior expectation and predictive distribution estimation
 - Bias–variance trade-offs in estimators
 - Variable transformation (e.g., Box-Cox)
-- Model diagnostics: AIC, CV error, MAE, LCH, MAPE
+- Model diagnostics: AIC, BIC, CV error, MAE, LCH, MAPE, MSE
+- Confidence interval estimation using bootstrap methods
 - Predictive accuracy evaluation (Tofallis criterion, RMSE, MAE, MAPE)
-- Statistical comparison of models (Wilcoxon signed-rank test)
-- Quantile regression and median-based model fitting
+- Statistical comparison of models (Wilcoxon signed-rank test, error distribution plots)
+- Noise simulation and robustness testing in regression models
 
 > ⚠️ *Note:* Some assignments build on earlier ones but remain individually self-contained.
 
