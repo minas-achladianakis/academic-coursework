@@ -28,6 +28,7 @@ The first element of this section is a compiled PDF of my work during the course
 - **Task 4 (pp. 48–end):**  
   Problem 3.4 from *Applied Bayesian Statistics With R and OpenBUGS* by M.K. Cowles, and Hoff’s 4.2, 4.3, 4.6, 4.7, 4.8.
 
+---
 
 ### 📘 Part 2 – Bayesian_Statistics_Part2 (Uploaded as PDF)
 📎 [View PDF](./Bayesian_Statistics_Part2.pdf)
@@ -46,6 +47,8 @@ The second element of this section is a compiled PDF of my work during the cours
 - **Task 8 (pp. 56–end):**  
   One basic exercise and Hoff’s 7.3.
 
+---
+
 ### 📘 Part 3 – Bayesian_Statistics_Part3 (Uploaded as PDF)
 📎 [View PDF](./Bayesian_Statistics_Part3.pdf)
 
@@ -63,6 +66,25 @@ The second element of this section is a compiled PDF of my work during the cours
 - **Task 12 (pp. 55–end):**  
   Hoff’s exercise 9.3.
 
+---
+
+  📘 Part 4 – Final Exercise: Metropolis for Logistic Regression
+📎 [View PDF](./Bayesian_Statistics_Part4.pdf)
+
+The final exercise of the reading course is based on Exercise 10.2 from Peter D. Hoff’s book and focuses on Bayesian logistic regression using the Metropolis algorithm for MCMC sampling. It provides a full walk-through from model definition and prior selection to posterior sampling and diagnostics.
+
+Bayesian model setup for binary response data on sparrow nesting
+
+- Exploratory prior specification using contour plots for 
+- Implementation of the Metropolis algorithm for non-conjugate posteriors
+- Burn-in and acceptance rate tuning (comparison of 10k vs. 100k iterations)
+- Posterior summaries, trace plots, and effective sample size calculations
+- Construction of Bayesian credible bands around the fitted logistic curve
+- Comparison of posterior and prior densities and convergence diagnostics
+
+📌 This task is a complete MCMC implementation in R for Bayesian logistic regression using real ecological data and serves as a hands-on application of concepts from Chapter 10 in Hoff.
+
+---
 
 ### 📘 Bonus Work – Bayesian_Statistics_Bonus (Uploaded as PDF)
 📎 [View PDF](./Bayesian_Statistics_Bonus.pdf)
@@ -70,10 +92,12 @@ The second element of this section is a compiled PDF of my work during the cours
 **An analysis of BMA implementations (including birth-death mcmc) vs Ridge**
 
 
-
 ---
 
+📌 **Disclaimer & Sharing Policy**
 
-📌 **Disclaimer:** These materials are intended for learning and self-study purposes. They are not official solutions or endorsed by the author.
+These materials are intended for learning and self-study purposes. They are not official solutions or endorsed by the author.
 
-🚧 **This section is under construction.** More materials will be added soon. 🚧  
+This work has been uploaded as a protected PDF due to its close alignment with ongoing coursework at the University of Crete. It is intended to support understanding, peer learning, and academic growth for fellow students and readers — not for direct reuse or copy-paste into active assignments.
+
+If you are a researcher, educator, or student interested in the underlying LaTeX source code, R/Python scripts, or extended materials for non-evaluative or collaborative purposes, feel free to reach out. I’d be happy to share the raw files upon reasonable and specific request.
